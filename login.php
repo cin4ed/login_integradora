@@ -42,7 +42,7 @@
                 <!--imagen de github   
                 <img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />
                 -->
-                <h1>LOGIN</h1>
+                <h1>LAGIN</h1>
                 <form>
                     <input type="text" placeholder="USERNAME" />
                     <input type="password" placeholder="PASSWORD" />
